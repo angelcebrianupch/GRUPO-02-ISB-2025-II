@@ -2,7 +2,7 @@
 
 <h1 align="center"><small>Repositorio del Grupo 2</small></h1>
 
-![ imagen_introduccion]( https://i.makeagif.com/media/8-15-2023/DzyJp2.gif ) 
+![ imagen_introduccion]( https://www.embs.org/wp-content/uploads/2022/04/TBME-00904-2021-Website-Image.gif) 
 
 ## Introducción:
 ¡Bienvenidos al repositorio oficial del **Grupo 2** del curso **Introducción a Señales Biomédicas 2025-II**!
