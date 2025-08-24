@@ -21,6 +21,5 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 ## 🛠️ Paso 1: Instalar VS Code
 
 Descarga desde Visual Studio Code
-.
 
 Disponible para Windows, macOS y Linux.
