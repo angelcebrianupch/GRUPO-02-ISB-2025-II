@@ -1,7 +1,8 @@
 <h1 align="center">Introducción a Señales Biomédicas 2025-II</h1>
 
-# Bienvenidos al repositorio del Grupo 2
-![ imagen_introduccion]( https://i.pinimg.com/originals/3f/c4/eb/3fc4ebac5fb063cb0094dd1c0389d495.gif ) 
+<h1 align="center"><small>Repositorio del Grupo 2</small></h1>
+
+![ imagen_introduccion]( https://i.makeagif.com/media/8-15-2023/DzyJp2.gif ) 
 
 ## Introducción:
 ¡Bienvenidos al repositorio oficial del **Grupo 2** del curso **Introducción a Señales Biomédicas 2025-II**!
