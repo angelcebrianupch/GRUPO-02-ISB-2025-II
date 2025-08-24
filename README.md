@@ -3,7 +3,7 @@
 <h1 align="center"><small>Repositorio del Grupo 2</small></h1>
 
 <p align="center">
-  <img src="https://www.embs.org/wp-content/uploads/2022/04/TBME-00904-2021-Website-Image.gif" alt="imagen_introduccion" width="420">
+  <img src="https://www.embs.org/wp-content/uploads/2022/04/TBME-00904-2021-Website-Image.gif" alt="imagen_introduccion">
 </p>
 
 ## Introducción:
