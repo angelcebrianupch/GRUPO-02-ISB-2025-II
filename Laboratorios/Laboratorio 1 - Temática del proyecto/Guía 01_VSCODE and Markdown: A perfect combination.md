@@ -20,9 +20,9 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 
 ## 🛠️ Paso 1: Instalar VS Code
 
-Descarga desde [Visual Studio Code](https://code.visualstudio.com/)
+* Descarga desde [Visual Studio Code](https://code.visualstudio.com/)
 
-Disponible para Windows, macOS y Linux.
+* Disponible para Windows, macOS y Linux.
 
 ## 🔌 Paso 2: Instalar la Extensión de Markdown
 
@@ -43,8 +43,9 @@ Disponible para Windows, macOS y Linux.
 # Mi Primer Documento Markdown  
 
 ## Autores  
-- Alice  
-- Bob  
+- Moisés  
+- Alonso
+- Lewis
 
 ## Propósito  
 Este es un archivo Markdown de prueba escrito en VS Code.
