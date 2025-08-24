@@ -23,3 +23,15 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 Descarga desde [Visual Studio Code](https://code.visualstudio.com/)
 
 Disponible para Windows, macOS y Linux.
+
+## 🔌 Paso 2: Instalar la Extensión de Markdown
+
+Abre VS Code.
+
+Ve a la pestaña Extensiones (Ctrl+Shift+X).
+
+Busca *Markdown Preview Enhanced*.
+
+Haz clic en **Instalar**.
+
+👉 También puedes probar Markdown Preview u otras extensiones según tus necesidades.
