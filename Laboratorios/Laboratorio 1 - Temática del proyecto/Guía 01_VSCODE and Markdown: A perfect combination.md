@@ -16,3 +16,12 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 - Punto de lista  
 1. Lista numerada  
 **Negrita**, *cursiva*, `código en línea`
+´´´
+---
+
+## 🛠️ Paso 1: Instalar VS Code
+
+Descarga desde Visual Studio Code
+.
+
+Disponible para Windows, macOS y Linux.
