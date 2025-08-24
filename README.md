@@ -1,4 +1,4 @@
-<h1 align="center">Introducción a Señales Biomédicas 2025-II</h1>
+<h1 align="center" style="color:red">Introducción a Señales Biomédicas 2025-II</h1>
 
 <h1 align="center"><small>Repositorio del Grupo 2</small></h1>
 
