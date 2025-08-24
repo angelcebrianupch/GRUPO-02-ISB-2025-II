@@ -26,12 +26,34 @@ Disponible para Windows, macOS y Linux.
 
 ## 🔌 Paso 2: Instalar la Extensión de Markdown
 
-Abre VS Code.
+1. Abre VS Code.
 
-Ve a la pestaña Extensiones (Ctrl+Shift+X).
+2. Ve a la pestaña Extensiones (Ctrl+Shift+X).
 
-Busca *Markdown Preview Enhanced*.
+3. Busca *Markdown Preview Enhanced*.
 
-Haz clic en **Instalar**.
+4. Haz clic en **Instalar**.
+
+## 📄 Paso 3: Crear tu Primer Archivo Markdown
+
+1. Crea un archivo `README.md.`
+
+2. Escribe:
+```markdown
+# Mi Primer Documento Markdown  
+
+## Autores  
+- Alice  
+- Bob  
+
+## Propósito  
+Este es un archivo Markdown de prueba escrito en VS Code.
+```
+3. Guarda y prepárate para visualizarlo.
+##
+
+##
+
+##
 
 👉 También puedes probar Markdown Preview u otras extensiones según tus necesidades.
