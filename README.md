@@ -6,10 +6,5 @@
 Durante el desarrollo del curso compartiremos nuestros avances, que contendrán materiales, códigos y documentación del grupo para el proyecto y los laboratorios. Asimismo, registraremos nuestros progresos y análisis.
 
 Nuestro objetivo es contribuir al conocimiento y a la mejora de las tecnologías aplicadas en salud, explorando, aprendiendo y aplicando conceptos en señales biomédicas mediante un enfoque práctico y colaborativo.
-
-
-
-
-
 ## Integrantes
 
