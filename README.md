@@ -24,7 +24,7 @@ Nos motiva aplicar la ingeniería a problemas reales de salud, convirtiendo los 
 
 
 
-## Docentes
+## Docentes 👨‍🏫
 - Moises Stevend Meza Rodriguez
 - Umbert Lewis De la Cruz Rodriguez
 - Jose Alonso Caceres Del Aguila
