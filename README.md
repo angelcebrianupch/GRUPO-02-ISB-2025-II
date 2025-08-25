@@ -18,9 +18,9 @@ Nos motiva aplicar la ingeniería a problemas reales de salud, convirtiendo los 
 
 | Foto | Presentación |
 |:---:|---|
-| <img src="Imagenes/Angel.jpeg" alt="Angel" width="220"> | **Angel David Cebrian Jauregui**<br>Soy estudiante de 8vo ciclo. Mis áreas de interés son **Ingeniería de Tejidos y Señales e Imágenes Biomédicas**. Tengo experiencia en biomateriales y Tiny Machine Learning. |
-| <img src="Imagenes/Luciana.jpg" alt="Luciana" width="220"> | **Luciana Valeria Tarazona Alamo**<br>Soy estudiante de 8vo ciclo. Mis áreas de interés son **Ingeniería Clínica, Biomecánica y Rehabilitación**. He colaborado en proyectos de dispositivos para salud y realicé una pasantía en el Laboratorio de Docencia en Ingeniería (UPCH). |
-| <img src="Imagenes/Fabrizio.jpeg" alt="Fabrizio" width="220"> | **Fabrizio Fernando Vega Gamboa**<br>Soy estudiante de 8vo ciclo del pregrado de Ingeniería Biomédica. Mis áreas de interés son **Ingeniería de Tejidos y Biomateriales**. Colaboro en un proyecto en el Laboratorio de Modificación de Materiales de la PUCP. |
+| <img src="Imagenes/Angel.jpeg" alt="Angel" width="220"> | **Angel David Cebrian Jauregui**<a href="https://www.linkedin.com/in/angel-david-cebrian-jauregui-a96927306/"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="40"><br>Soy estudiante de 8vo ciclo. Mis áreas de interés son **Ingeniería de Tejidos y Señales e Imágenes Biomédicas**. Tengo experiencia en biomateriales y Tiny Machine Learning. |
+| <img src="Imagenes/Luciana.jpg" alt="Luciana" width="220"> | **Luciana Valeria Tarazona Alamo**<br><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="40"><br>Soy estudiante de 8vo ciclo. Mis áreas de interés son **Ingeniería Clínica, Biomecánica y Rehabilitación**. He colaborado en proyectos de dispositivos para salud y realicé una pasantía en el Laboratorio de Docencia en Ingeniería (UPCH). |
+| <img src="Imagenes/Fabrizio.jpeg" alt="Fabrizio" width="220"> | **Fabrizio Fernando Vega Gamboa**<br><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" height="40"><br>Soy estudiante de 8vo ciclo del pregrado de Ingeniería Biomédica. Mis áreas de interés son **Ingeniería de Tejidos y Biomateriales**. Colaboro en un proyecto en el Laboratorio de Modificación de Materiales de la PUCP. |
 
 
 
