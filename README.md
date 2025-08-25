@@ -18,9 +18,10 @@ Nos motiva aplicar la ingeniería a problemas reales de salud, convirtiendo los 
 
 | Foto | Presentación |
 |---|---|
-| <img src="Imagenes/Angel.jpeg" alt="Angel" width="220"> | **Angel Cebrian** — Soy estudiante de 8vo ciclo. Mis áreas de interés son ingeniería de tejidos y señales e imágenes biomédicas. Tengo experiencia en biomateriales y Tiny Machine Learning. |
-| <img src="Imagenes/Luciana.jpg" alt="Luciana" width="220"> | **Luciana Valeria Tarazona Alamo** — Soy estudiante de 8vo ciclo. Mis áreas de interés son ingeniería clínica, biomecánica y rehabilitación. He colaborado en diversos proyectos de creación de dispositivos para mejorar la salud y realicé una pasantía en el Laboratorio de Docencia en Ingeniería (UPCH). |
-| <img src="Imagenes/Fabrizio.jpeg" alt="Fabrizio" width="220"> | **Fabrizio Fernando Vega Gamboa** — Soy estudiante de 8vo ciclo del pregrado de Ingeniería Biomédica. Mis áreas de interés son ingeniería de tejidos y biomateriales. Colaboro en un proyecto en el Laboratorio de Modificación de Materiales de la Pontificia Universidad Católica del Perú (PUCP). |
+| <img src="Imagenes/Angel.jpeg" alt="Angel" width="220"> | **Angel Cebrian**<br>Soy estudiante de 8vo ciclo. Mis áreas de interés son ingeniería de tejidos y señales e imágenes biomédicas. Tengo experiencia en biomateriales y Tiny Machine Learning. |
+| <img src="Imagenes/Luciana.jpg" alt="Luciana" width="220"> | **Luciana Valeria Tarazona Alamo**<br>Soy estudiante de 8vo ciclo. Mis áreas de interés son ingeniería clínica, biomecánica y rehabilitación. He colaborado en proyectos de dispositivos para salud y realicé una pasantía en el Laboratorio de Docencia en Ingeniería (UPCH). |
+| <img src="Imagenes/Fabrizio.jpeg" alt="Fabrizio" width="220"> | **Fabrizio Fernando Vega Gamboa**<br>Soy estudiante de 8vo ciclo del pregrado de Ingeniería Biomédica. Mis áreas de interés son ingeniería de tejidos y biomateriales. Colaboro en un proyecto en el Laboratorio de Modificación de Materiales de la PUCP. |
+
 
 
 
