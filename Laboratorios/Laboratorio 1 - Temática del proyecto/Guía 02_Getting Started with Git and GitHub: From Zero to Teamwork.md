@@ -25,15 +25,35 @@ Son herramientas poderosas para el **control de versiones** y la **colaboración
 ## 🛠️ Paso 1: Instalar Git
 - **Windows** → [Descargar aquí](https://git-scm.com)  
 - **Linux**  
-  ```bash
+  ```markdown
   sudo apt-get install git
   ```
 - **macOS**
-  ```bash
+  ```markdown
   brew install git
   ```
   Verificar instalación:
   ```blash
   git --version
   ```
+## 🧑‍💻 Paso 2: Configurar Git
 
+## 📂 Paso 3: Crear un Repositorio Local
+
+## 📝 Paso 4: Primer Commit
+
+## 🔍 Paso 5: Comandos Clave
+
+## 🌱 Ramas (Branches)
+
+## 🔀 Fusionar (Merge)
+
+## 💻 Usando VS Code + GitHub
+
+## ✅ Conclusión
+
+* Git = control local de versiones.
+
+* GitHub = colaboración en la nube.
+
+* Juntos = 🚀 trabajo en equipo eficiente.
