@@ -101,7 +101,9 @@ Usar VS Code con extensiones Markdown es como tener una herramienta de publicaci
 💡 Dale una oportunidad y verás que no querrás volver a Word.
 
 ## 📌 Créditos
-![Moises Meza](https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=1758758400&v=beta&t=OWopeNe4kN7N5uOEIomJ0EqWM4fbtBXbJje3CQ7k4mc)
+<p align="center">
+  <img src="[https://www.embs.org/wp-content/uploads/2022/04/TBME-00904-2021-Website-Image.gif](https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=1758758400&v=beta&t=OWopeNe4kN7N5uOEIomJ0EqWM4fbtBXbJje3CQ7k4mc)" alt="moises_meza">
+</p>
 
 Resumen basado en el artículo original de [Moises Meza](https://www.linkedin.com/in/moises-meza-rodriguez/):
 
