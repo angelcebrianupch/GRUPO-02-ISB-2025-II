@@ -27,3 +27,13 @@ Son herramientas poderosas para el **control de versiones** y la **colaboración
 - **Linux**  
   ```bash
   sudo apt-get install git
+  ```
+- **macOS**
+  ```bash
+  brew install git
+  ```
+  Verificar instalación:
+  ```blash
+  git --version
+  ```
+
