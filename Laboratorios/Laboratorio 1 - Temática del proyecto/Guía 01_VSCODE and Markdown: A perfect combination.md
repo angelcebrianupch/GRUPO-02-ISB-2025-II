@@ -59,6 +59,8 @@ Este es un archivo Markdown de prueba escrito en VS Code.
 * Vista dividida: `Ctrl+K V`.
 
 ✅ Verás los cambios en tiempo real.
+
+[Ejemplo](https://www.eniun.com/wp-content/uploads/Tutorial-Markdown-1024x393.jpg)
 ## Paso 5: Practicar Formato
 
 Agrega más estructura a tu documento:
