@@ -28,7 +28,7 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 
 1. Abre VS Code.
 
-2. Ve a la pestaña Extensiones (Ctrl+Shift+X).
+2. Ve a la pestaña Extensiones `(Ctrl+Shift+X)`.
 
 3. Busca *Markdown Preview Enhanced*.
 
@@ -101,7 +101,10 @@ Usar VS Code con extensiones Markdown es como tener una herramienta de publicaci
 💡 Dale una oportunidad y verás que no querrás volver a Word.
 
 ## 📌 Créditos
+![Moises Meza](https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=1758758400&v=beta&t=OWopeNe4kN7N5uOEIomJ0EqWM4fbtBXbJje3CQ7k4mc)
 
-Resumen basado en el artículo original de Moises Meza:
+Resumen basado en el artículo original de [Moises Meza](https://www.linkedin.com/in/moises-meza-rodriguez/):
+
 👉 [VSCode and Markdown: A Perfect Combination](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
+
 *¡Síganlo y denle like para más publicaciones!*
