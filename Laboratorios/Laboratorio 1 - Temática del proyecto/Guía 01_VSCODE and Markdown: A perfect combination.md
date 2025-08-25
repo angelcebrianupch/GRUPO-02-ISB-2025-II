@@ -60,7 +60,7 @@ Este es un archivo Markdown de prueba escrito en VS Code.
 
 ✅ Verás los cambios en tiempo real.
 
-[Ejemplo](https://www.eniun.com/wp-content/uploads/Tutorial-Markdown-1024x393.jpg)
+![Ejemplo](https://www.eniun.com/wp-content/uploads/Tutorial-Markdown-1024x393.jpg)
 ## Paso 5: Practicar Formato
 
 Agrega más estructura a tu documento:
@@ -70,9 +70,9 @@ Agrega más estructura a tu documento:
 ## Grupo 1  
 
 ### Integrantes  
-- Alice  
-- Bob  
-- Carol  
+- Moisés  
+- Alonso
+- Lewis
 
 ### Pasos  
 1. Instalar VS Code  
