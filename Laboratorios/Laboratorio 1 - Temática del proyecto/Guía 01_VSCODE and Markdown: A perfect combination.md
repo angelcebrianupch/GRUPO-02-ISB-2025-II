@@ -105,7 +105,7 @@ Usar VS Code con extensiones Markdown es como tener una herramienta de publicaci
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=2147483647&v=beta&t=LHt2LlOd5SBCGbXGEVcbFw2C41RFQaZgg27hLsD550o" alt="moises_meza">
 </p>
 
-Resumen basado en el artículo original de [Moises Meza](https://www.linkedin.com/in/moises-meza-rodriguez/):
+Resumen basado en el artículo original de [Moises Stevend Meza Rodriguez](https://www.linkedin.com/in/moises-meza-rodriguez/):
 
 👉 [VSCode and Markdown: A Perfect Combination](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
 
