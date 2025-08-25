@@ -34,6 +34,8 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 
 4. Haz clic en **Instalar**.
 
+👉 También puedes probar Markdown Preview u otras extensiones según tus necesidades.
+
 ## 📄 Paso 3: Crear tu Primer Archivo Markdown
 
 1. Crea un archivo `README.md.`
@@ -92,6 +94,14 @@ Más información en [Visual Studio Code](https://code.visualstudio.com/).
 
 ```
 
-##
+## ✅ Conclusión
 
-👉 También puedes probar Markdown Preview u otras extensiones según tus necesidades.
+Usar VS Code con extensiones Markdown es como tener una herramienta de publicación ligera lista para documentación, reportes o blogs.
+
+💡 Dale una oportunidad y verás que no querrás volver a Word.
+
+## 📌 Créditos
+
+Resumen basado en el artículo original de Moises Meza:
+👉 [VSCode and Markdown: A Perfect Combination](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
+*¡Síganlo y denle like para más publicaciones!*
