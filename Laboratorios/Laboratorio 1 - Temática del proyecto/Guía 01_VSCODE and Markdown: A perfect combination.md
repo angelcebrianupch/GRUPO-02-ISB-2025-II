@@ -51,9 +51,44 @@ Markdown se ha convertido en el lenguaje universal para documentación, blogs y 
 Este es un archivo Markdown de prueba escrito en VS Code.
 ```
 3. Guarda y prepárate para visualizarlo.
-##
+## 👀 Paso 4: Previsualizar Markdown
+* Haz clic derecho en el archivo `.md` → `Open Preview`.
 
-##
+* Atajo: `Ctrl+Shift+V`.
+
+* Vista dividida: `Ctrl+K V`.
+
+✅ Verás los cambios en tiempo real.
+## Paso 5: Practicar Formato
+
+Agrega más estructura a tu documento:
+
+```markdown
+# Informe de Laboratorio  
+## Grupo 1  
+
+### Integrantes  
+- Alice  
+- Bob  
+- Carol  
+
+### Pasos  
+1. Instalar VS Code  
+2. Instalar Plugin Markdown  
+3. Crear Reporte  
+
+### Tabla  
+| Nombre | Rol       |  
+|--------|-----------|  
+| Alice  | Líder     |  
+| Bob    | Redactor  |  
+| Carol  | Revisor   |  
+
+![VS Code Logo](https://code.visualstudio.com/assets/images/code-stable.png)
+
+Más información en [Visual Studio Code](https://code.visualstudio.com/).
+
+```
 
 ##
 
