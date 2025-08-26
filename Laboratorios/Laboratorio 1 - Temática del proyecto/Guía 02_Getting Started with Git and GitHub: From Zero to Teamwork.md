@@ -128,7 +128,4 @@ Resumen basado en el artículo original de [Moises Stevend Meza Rodriguez](https
 👉 [VSCode and Markdown: A Perfect Combination](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
 
 *¡Síganlo y denle like para más publicaciones!*
-## Aporte de los integrantes
-* Fabrizio Vega 33.33%
-* Luciana Tarazona 33.33%
-* Angel Cebrian 33.33%
+

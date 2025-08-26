@@ -42,3 +42,8 @@ Para hacer el proceso de rehabilitación más atractivo y efectivo, **BioGesto**
 [1] M. R. Ahsan, M. I. Ibrahimy and O. O. Khalifa, "Electromygraphy (EMG) signal based hand gesture recognition using artificial neural network (ANN)," 2011 4th International Conference on Mechatronics (ICOM), Kuala Lumpur, Malaysia, 2011, pp. 1-6, doi: 10.1109/ICOM.2011.5937135. keywords: {Electromyography;Artificial neural networks;Feature extraction;Training;Noise;Support vector machine classification;Neurons;Electromyography;Artificial Neural Network;Discrete Wavelet Transform;Levenberg-Marquardt algorithm},
 
 [2] X. Chen, X. Zhang, Z. -Y. Zhao, J. -H. Yang, V. Lantz and K. -Q. Wang, "Multiple Hand Gesture Recognition Based on Surface EMG Signal," 2007 1st International Conference on Bioinformatics and Biomedical Engineering, Wuhan, China, 2007, pp. 506-509, doi: 10.1109/ICBBE.2007.133. keywords: {Electromyography;Control systems;Sensor systems;Anthropometry;Humans;Muscles;Bayesian methods;Signal processing;Wrist;Fingers},
+
+## Aporte de los integrantes
+* Fabrizio Vega 33.33%
+* Luciana Tarazona 33.33%
+* Angel Cebrian 33.33%
