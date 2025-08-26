@@ -26,19 +26,19 @@ Nos motiva aplicar la ingeniería a problemas reales de salud, convirtiendo los 
 
 ## Docentes 👨‍🏫
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=2147483647&v=beta&t=LHt2LlOd5SBCGbXGEVcbFw2C41RFQaZgg27hLsD550o" alt="moises_meza">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=2147483647&v=beta&t=LHt2LlOd5SBCGbXGEVcbFw2C41RFQaZgg27hLsD550o" alt="moises_meza" width="150" height="150">
 </p>
 
 - [Moises Stevend Meza Rodriguez](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=23798)
 
 <p align="center">
-  <img src="https://ctivitae.concytec.gob.pe/appDirectorioCTI/UploadFotoPath.do?tipo=visualizar_archivo&id_investigador=160463&ruta=/documents/docInvestigadores/160463/imagenes/2_UPCH_1.jpg&content_type=image/jpeg" alt="umbert_lewis">
+  <img src="https://ctivitae.concytec.gob.pe/appDirectorioCTI/UploadFotoPath.do?tipo=visualizar_archivo&id_investigador=160463&ruta=/documents/docInvestigadores/160463/imagenes/2_UPCH_1.jpg&content_type=image/jpeg" alt="umbert_lewis" width="150" height="150">
 </p>
 
 - [Umbert Lewis De la Cruz Rodriguez](https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=160463)
 
 <p align="center">
-  <img src="https://dina.concytec.gob.pe/appDirectorioCTI/UploadFotoPath.do?tipo=visualizar_archivo&id_investigador=203971&ruta=/documents/docInvestigadores/203971/imagenes/1581702010996_14-02-20%20%20%20%20%20%20%20%20%206.jpg&content_type=image/jpeg" alt="moises_meza">
+  <img src="https://dina.concytec.gob.pe/appDirectorioCTI/UploadFotoPath.do?tipo=visualizar_archivo&id_investigador=203971&ruta=/documents/docInvestigadores/203971/imagenes/1581702010996_14-02-20%20%20%20%20%20%20%20%20%206.jpg&content_type=image/jpeg" alt="moises_meza" width="150" height="150">
 </p>
 
 - [Jose Alonso Caceres Del Aguila](https://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=734eb3d1291354c98c5bafdfbdf8?id_investigador=203971)
