@@ -5,7 +5,7 @@
 La recuperación motora de pacientes post-ictus se ve obstaculizada por la falta de **sistemas de rehabilitación accesibles y asequibles**. Los dispositivos clínicos para el monitoreo de la recuperación motora suelen ser costosos, lo que limita su uso fuera de los centros médicos. El reconocimiento de gestos a través de **señales electromiográficas (EMG)** tiene el potencial de ser una solución, pero su implementación aún no es masivamente accesible, lo que impide un seguimiento constante y personalizado del progreso del paciente en su propio hogar.
 
 <div align="center">
-  <img src="https://cdn.hackaday.io/images/original/9534081685454426715.gif" alt="Un GIF animado de ejemplo" width="300"/>
+  <img src="https://cdn.hackaday.io/images/original/9534081685454426715.gif" alt="Un GIF animado de ejemplo" width="600"/>
 </div>
 
 ### Objetivos a Alcanzar
