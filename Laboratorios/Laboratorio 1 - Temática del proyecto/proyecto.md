@@ -1,4 +1,4 @@
-## Título del Proyecto: 📶 _BioGesto: Rehabilitación Motora Inteligente con EMG_ 📶
+## 📶 _BioGesto: Rehabilitación Motora Inteligente con EMG_ 📶
 
 ### Problemática a Abordar 🤔
 
