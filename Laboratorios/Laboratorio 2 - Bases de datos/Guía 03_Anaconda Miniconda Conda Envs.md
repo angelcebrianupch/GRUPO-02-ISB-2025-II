@@ -83,3 +83,97 @@ Instala extensiones Python y Jupyter.
 ``Ctrl+Shift+P`` → Python: Select Interpreter → selecciona ``ds-env``.
 
 Para notebooks: Kernel → Python (ds-env).
+
+## 🔁 6. Reproducibilidad: Exportar y Compartir Entornos
+
+Exportar (historial limpio):
+```bash
+conda env export --from-history > environment.yml
+```
+
+Exportar (completo):
+
+```bash
+conda env export > environment-full.yml
+```
+
+Crear desde YAML:
+```bash
+conda env create -f environment.yml
+# o actualizar existente
+conda env update -n ds-env -f environment.yml --prune
+```
+
+Ejemplo environment.yml:
+
+```yml
+name: ds-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
+  - pip
+  - pip:
+    - python-dotenv
+```
+
+## 🚀 7. Workflows Comunes
+
+Data Science Starter
+
+```bash
+conda create -n ds-env python=3.11 numpy pandas matplotlib scikit-learn jupyterlab
+conda activate ds-env
+python -m ipykernel install --user --name ds-env --display-name "Python (ds-env)"
+jupyter lab
+```
+
+Computer Vision (CPU)
+``` bash
+conda create -n cv-env python=3.11 opencv numpy matplotlib
+conda activate cv-env
+```
+
+PyTorch (GPU)
+```bash
+conda create -n torch-env python=3.11 pytorch pytorch-cuda=12.1 -c pytorch -c nvidia
+conda activate torch-env
+``` 
+## 🧪 8. Mini-Lab Interactivo (15–20 min)
+
+Crear un entorno:
+```bash
+conda create -n lab-311 python=3.11
+conda activate lab-311
+```
+
+Instalar paquetes:
+```bash
+conda install numpy pandas jupyterlab
+```
+
+Registrar kernel y abrir Jupyter:
+```bash
+python -m ipykernel install --user --name lab-311 --display-name "Python (lab-311)"
+jupyter lab
+```
+
+En un notebook, ejecutar:
+```bash
+import sys, numpy as np, pandas as pd
+print(sys.executable)
+print(np.__version__, pd.__version__)
+```
+
+Exportar entorno:
+```bash
+conda env export --from-history > environment.yml
+```
+
+(Opcional) Crear un segundo entorno desde ese YAML y comprobar que funciona.
