@@ -26,3 +26,48 @@
 conda init
 # Cerrar y reabrir terminal
 
+# Extra: Actualizar conda (seguro):
+
+conda update -n base -c defaults conda
+```
+
+## 📦 3. Crear, Activar y Manejar Entornos
+```bash
+# Crear entorno Python 3.11
+conda create -n ds-env python=3.11
+
+# Activar / desactivar
+conda activate ds-env
+conda deactivate
+
+# Listar entornos
+conda env list
+conda info --envs
+
+# Eliminar
+conda remove -n ds-env --all
+
+# Clonar (útil antes de actualizar)
+conda create -n ds-env-backup --clone ds-env
+```
+
+## 📚 4. Instalar y Administrar Paquetes
+
+```bash
+# Instalar stack de ciencia de datos
+conda activate ds-env
+conda install numpy pandas matplotlib scikit-learn jupyterlab
+
+# Buscar y listar
+conda search numpy
+conda list
+
+# Usar pip dentro del entorno
+pip install package-not-on-conda
+pip list
+```
+⚡ Tip: Preferir conda > pip. Si usas ambos, instala primero conda.
+
+## 📓 5. Integración con Jupyter y VS Code
+
+
