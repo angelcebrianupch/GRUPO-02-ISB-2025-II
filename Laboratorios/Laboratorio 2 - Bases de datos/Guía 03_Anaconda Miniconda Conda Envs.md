@@ -1,10 +1,5 @@
 # 📘 Guía Interactiva: Anaconda & Entornos Virtuales (conda)
-
-Autor: Moises Meza · Adaptado a formato guía interactiva  
-Fecha: Agosto 2025  
-
 ---
-
 ## 🎯 Objetivos
 - Instalar **conda**  
 - Crear y usar entornos virtuales aislados  
