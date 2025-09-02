@@ -1,4 +1,4 @@
-# ✨ Comparativo de Bases de Datos EMG – Grupo 02 (11 Datasets)
+# ✨ Comparativo de Bases de Datos EMG –  (11 Datasets)
 
 | # | 📂 Dataset / Fuente | 👥 Población | ✋ Gestos | 🎚️ Canales EMG | ⏱️ fs (Hz) | 📆 Sesiones / Días | 📅 Año | 🔒 Licencia | 💾 Tamaño / Archivos | 🛠 Herramientas asociadas | 🧭 Aplicación sugerida | ✅ Pros | ⚠️ Contras | 🎯 Idoneidad |
 |---|---------------------|--------------|-----------|----------------|-------------|-------------------|--------|-------------|----------------------|--------------------------|-----------------------|---------|------------|--------------|
