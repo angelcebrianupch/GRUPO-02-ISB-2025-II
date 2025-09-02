@@ -125,7 +125,7 @@ git merge nueva_rama
 
 Resumen basado en el artículo original de [Moises Stevend Meza Rodriguez](https://www.linkedin.com/in/moises-meza-rodriguez/):
 
-👉 [VSCode and Markdown: A Perfect Combination](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
+👉 [Git y GitHub desde Cero](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
 
 *¡Síganlo y denle like para más publicaciones!*
 
