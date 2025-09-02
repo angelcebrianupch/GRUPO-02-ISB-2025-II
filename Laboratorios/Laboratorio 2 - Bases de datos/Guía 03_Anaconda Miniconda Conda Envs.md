@@ -69,5 +69,17 @@ pip list
 ⚡ Tip: Preferir conda > pip. Si usas ambos, instala primero conda.
 
 ## 📓 5. Integración con Jupyter y VS Code
+Registrar el kernel en Jupyter:
+```bash
+conda activate ds-env
+python -m ipykernel install --user --name ds-env --display-name "Python (ds-env)"
+jupyter lab
 
+```
+En VS Code:
 
+Instala extensiones Python y Jupyter.
+
+``Ctrl+Shift+P`` → Python: Select Interpreter → selecciona ``ds-env``.
+
+Para notebooks: Kernel → Python (ds-env).
