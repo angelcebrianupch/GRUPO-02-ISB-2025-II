@@ -177,3 +177,12 @@ conda env export --from-history > environment.yml
 ```
 
 (Opcional) Crear un segundo entorno desde ese YAML y comprobar que funciona.
+
+## 📌 Créditos
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQG4pHJE7KF8Yw/profile-displayphoto-shrink_200_200/B4EZVtbchRHgAg-/0/1741297666662?e=2147483647&v=beta&t=LHt2LlOd5SBCGbXGEVcbFw2C41RFQaZgg27hLsD550o" alt="moises_meza">
+</p>
+
+Resumen basado en el artículo original de [Moises Stevend Meza Rodriguez](https://www.linkedin.com/in/moises-meza-rodriguez/):
+
+👉 [Anaconda & Entornos Virtuales (conda)](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
