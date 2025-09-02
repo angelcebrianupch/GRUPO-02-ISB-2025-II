@@ -185,4 +185,4 @@ conda env export --from-history > environment.yml
 
 Resumen basado en el artículo original de [Moises Stevend Meza Rodriguez](https://www.linkedin.com/in/moises-meza-rodriguez/):
 
-👉 [Anaconda & Entornos Virtuales (conda)](https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9)
+👉 [Anaconda & Entornos Virtuales (conda)]([https://medium.com/@moises.meza/vscode-and-markdown-a-perfect-combination-e236e07065e9](https://medium.com/@moises.meza/introduction-to-anaconda-virtual-environments-conda-5f93e8fb131b))
